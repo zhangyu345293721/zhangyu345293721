@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Octopus zhang</h1>
 
-- 🌱 I am currently working in the field of **supply chain algorithms**, dedicated to reducing product losses.
+- 🌱 I am currently working in the field of **supply chain algorithms**,  Responsible for building and optimizing demand forecasting, inventory optimization, and intelligent allocation algorithms in supply chain operations. Through data-driven algorithm models, we aim to improve supply chain operational efficiency and reduce inventory costs.
 
 - 👨‍💻 All of my projects are available at [zhangyu345293721](https://github.com/zhangyu345293721)
 
